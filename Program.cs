@@ -7,7 +7,7 @@ namespace Form
     static void Main(string[] args)
     {
       // Create Variables
-  string name = "Shadow";
+  string name = "Shadow Monster";
   string breed = "Golden Retriever";
   int age = 5;
   double weight = 65.22;
